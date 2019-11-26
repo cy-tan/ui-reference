@@ -1,0 +1,106 @@
+.proposal-entry-form {
+  margin-top: 40px;
+}
+
+.proposal-entry-form__product {
+  background-color: #fff;
+}
+
+.proposal-entry-form__lbta {
+  background-color: #fff;
+}
+
+.proposal-entry-form__submit {
+  background-color: #fff;
+}
+
+.proposal-entry-form__heading {
+  margin-bottom: 20px;
+}
+
+.proposal-entry-form__button {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+
+.ant-row {
+  padding: 20px;
+}
+
+.proposal-entry-form__header {
+  background-color: rgb(24, 100, 160);
+  height: 65px;
+  display: flex;
+  align-items: center;
+  /* position: fixed; */
+  width: 100vw;
+}
+
+.proposal-entry-form__logo {
+  margin: 0 20px;
+  transform: scale(0.9);
+}
+
+.proposal-entry-form__heading-1 {
+  margin: 15px 0;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.proposal-entry-form__heading-2 {
+  font-size: 19px;
+  font-weight: 600;
+}
+
+.proposal-entry-form__heading-3 {
+  margin-top: 8px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.proposal-entry-form__image {
+  height: 280px;
+  float: right;
+}
+
+.proposal-entry-form__product-container {
+  border-bottom-color: rgb(240, 240, 240);
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  margin-bottom: 20px;
+}
+
+.proposal-entry-form__input-before {
+  width: 65px;
+  text-align: left;
+}
+
+/* Utililites Class */
+.prsm {
+  padding-right: 20px;
+}
+.prlg {
+  padding-right: 60px;
+}
+.ptsm {
+  padding-top: 20px;
+}
+.plsm {
+  padding-left: 20px;
+}
+.pbsm {
+  padding-bottom: 20px;
+}
+.mrsm {
+  margin-right: 20px;
+}
+.mtsm {
+  margin-top: 20px;
+}
+.mlsm {
+  margin-left: 20px;
+}
+.mbsm {
+  margin-bottom: 20px;
+}
